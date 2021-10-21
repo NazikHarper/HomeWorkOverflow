@@ -1,0 +1,193 @@
+body {
+    background-color: rgb(95, 95, 95);
+    color: rgb(0, 162, 255);
+}
+.had {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+b {
+    color: blue;
+}
+img {
+    max-width: 100%;
+    width: 440px;
+    height: 300px;
+}
+.photo_chief {
+    display: flex;
+    justify-content: space-between;
+}
+.photo1 img:hover {
+    width: 460px;
+    height: 320px;
+    border: 2px solid rgb(0, 162, 255);
+    transition: all 0.8s;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;    
+    -webkit-transition: all 0.5s ease-out;
+}
+.photo2 img:hover {
+    width: 460px;
+    height: 320px;
+    border: 2px solid rgb(0, 162, 255);
+    transition: all 0.8s;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;    
+    -webkit-transition: all 0.5s ease-out;
+}
+.photo3 img:hover {
+    width: 460px;
+    height: 320px;
+    border: 2px solid rgb(0, 162, 255);
+    transition: all 0.8s;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;    
+    -webkit-transition: all 0.5s ease-out;
+}
+.text3 {
+    display: flex;
+    justify-content: space-between;
+}
+li {
+    color: blue;
+}
+a {
+    text-decoration: none;
+}
+.history {
+    text-align: center;
+    color: red;
+    font-family: 'Ubuntu', sans-serif;
+}
+.text_1 {
+    width: 350px;
+    height: 350px;
+    overflow: hidden;
+    font-family: 'Ubuntu', sans-serif;
+}
+.text_1:hover {
+    width: 550px;
+    height: 550px;
+    border: 2px solid rgb(0, 162, 255);
+    transition: all 0.8s;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;    
+    -webkit-transition: all 0.5s ease-out;
+}
+.start {
+    text-align: center;
+    color: blue;
+    font-family: 'Ubuntu', sans-serif;
+}
+.text_2 {
+    width: 350px;
+    height: 350px;
+    overflow: hidden;
+    font-family: 'Ubuntu', sans-serif;
+}
+.text_2:hover {
+    width: 550px;
+    height: 550px;
+    border: 2px solid rgb(0, 162, 255);
+    transition: all 0.8s;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;    
+    -webkit-transition: all 0.5s ease-out;
+}
+.cars {
+    text-align: center;
+    color: yellow;
+    font-family: 'Ubuntu', sans-serif;
+}
+.text_3 {
+    width: 350px;
+    height: 350px;
+    overflow: hidden;
+    font-family: 'Ubuntu', sans-serif;
+}
+.text_3:hover {
+    width: 550px;
+    height: 550px;
+    border: 2px solid rgb(0, 162, 255);
+    transition: all 0.8s;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;    
+    -webkit-transition: all 0.5s ease-out;
+}
+span {
+    color: rgb(29, 29, 29);
+}
+.animspin {
+    display: flex;
+    justify-content: space-between;
+}
+.fa-car {
+    font-size: 50px;
+    color: blue;
+}
+.fa-surprise {
+    font-size: 50px;
+    color: red;
+}
+.fa-smile-wink {
+    font-size: 50px;
+    color: yellow;
+}
+.fa-smile-beam {
+    font-size: 50px;
+    color: green;
+}
+.fa-grin-stars {
+    font-size: 50px;
+    color: hotpink;
+}
+.fa-taxi {
+    font-size: 50px;
+    color: blue;
+}
+.fa-grin-hearts {
+    font-size: 50px;
+    color: red;
+}
+.fa-grin-tongue-wink {
+    font-size: 50px;
+    color: yellow;
+}
+.fa-flushed {
+    font-size: 50px;
+    color: green;
+}
+.fa-grimace {
+    font-size: 50px;
+    color: hotpink;
+}
+.fa-id-card {
+    font-size: 50px;
+    color: black;
+}
+.fa-angellist {
+    font-size: 50px;
+    color: red;
+}
+.fa-angrycreative {
+    font-size: 50px;
+    color: pink;
+}
+.fa-award {
+    font-size: 50px;
+    color: yellow;
+}
+.fa-bitcoin {
+    font-size: 50px;
+    color: orange;
+}
+p {
+    font-family: 'Ubuntu', sans-serif;
+}
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
